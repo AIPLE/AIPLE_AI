@@ -10,7 +10,7 @@
 [![issue badge](https://img.shields.io/badge/Github-Changhyeon--Hwang-black?logo=github)](https://github.com/HwangChangHyeon)
 
 # WEB TEAM - REPOSITORY
-https://github.com/devstar1224/AIPLE_Project_Web
+https://github.com/AIPLE/AIPLE_WEB
 
 # 공동 개발
 ## Comghana - Jieun_Jang (장지은)
